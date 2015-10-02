@@ -38,7 +38,6 @@
     "textlint": "^3.6.0"
   },
   "dependencies": {
-    "object-assign": "^4.0.1",
-    "object.assign": "^4.0.1"
+    "object-assign": "^4.0.1"
   }
 }
