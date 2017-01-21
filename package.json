@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/azu/textlint-rule-max-number-of-lines/issues"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "textlint rule for linting number of lines.",
   "main": "lib/max-number-of-lines.js",
   "files": [
