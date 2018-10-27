@@ -8,7 +8,7 @@
 
 ## Usage
 
-    $ npm install textlint textlint-rule-max-ten
+    $ npm install textlint textlint-rule-max-number-of-lines
     $ textlint --rule textlint-rule-max-number-of-lines README.md
     # Document is too long(number of lines: 679).
 
@@ -22,7 +22,7 @@ Add config to `.textlintrc`
 {
   "rules": {
     "max-number-of-lines": {
-        "max" : 300 
+        "max" : 300
     }
   }
 }
