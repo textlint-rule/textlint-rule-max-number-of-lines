@@ -1,6 +1,8 @@
 # textlint-rule-max-number-of-lines
 
-[textlint](https://github.com/azu/textlint "textlint") rule for linting number of lines.
+[textlint](https://github.com/azu/textlint "textlint") rule that lint number of lines.
+
+If over the line number, report it as error.
 
 ## Installation
 
@@ -16,7 +18,8 @@
 
 Add config to `.textlintrc`
 
-- `max` - default: 300
+- `max` 
+  - default: 300
 
 ```json
 {
