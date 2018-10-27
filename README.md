@@ -2,7 +2,7 @@
 
 [textlint](https://github.com/azu/textlint "textlint") rule that lint number of lines.
 
-If over the line number, report it as error.
+If over the line numbers in a document, report it as error.
 
 ## Installation
 
