@@ -1,3 +1,0 @@
-# Short
-
-This is Short
